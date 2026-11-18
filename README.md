@@ -37,3 +37,7 @@ Buka browser di `http://localhost:3000`.
 ## 📖 Dokumentasi Lengkap
 * Blueprint Konsep & Arsitektur: [`PROJECT_BLUEPRINT.md`](./PROJECT_BLUEPRINT.md)
 * Panduan Setup & Template Prompt AI: [`PANDUAN_SETUP_DAN_PROMPT.md`](./PANDUAN_SETUP_DAN_PROMPT.md)
+
+---
+*Updated for Dual-Repository Deployment Synchronization.*
+
